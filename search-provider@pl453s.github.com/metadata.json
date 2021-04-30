@@ -1,0 +1,11 @@
+{
+  "description": "Search folders and websites or directly open paths and URL",
+  "name": "Search Provider",
+  "shell-version": [
+    "3.36",
+    "3.38",
+    "40.0"
+  ],
+  "uuid": "search-provider@pl453s.github.com",
+  "version": 1
+}
